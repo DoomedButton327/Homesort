@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[76779,["/_next/static/chunks/14plh3vhmgxn7.js","/_next/static/chunks/05v055ob9h3.f.js"],"ViewportBoundary"]
+3:I[76779,["/_next/static/chunks/14plh3vhmgxn7.js","/_next/static/chunks/05v055ob9h3.f.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}],["$","meta","2",{"name":"theme-color","content":"#141a2e"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shelf Keeper — Home Inventory"}],["$","meta","1",{"name":"description","content":"Snap your spots, catalog items, print barcodes and scan your home inventory. Syncs to your own GitHub repo."}],["$","meta","2",{"name":"generator","content":"v0.app"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SMcwLj1nvr_XVu2Kk2_qM"}
